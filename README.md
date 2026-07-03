@@ -50,6 +50,19 @@ VideoGameSalesEDA/
 ├── README.md
 └── requirements.txt
 ````
+# 📊 Visualizations
+
+## Correlation Heatmap
+
+![Correlation Heatmap](images/heatmap.png)
+
+---
+
+## Sales by Genre
+
+![Sales by Genre](images/Genre_sales.png)
+
+---
 
 ## Author
 
